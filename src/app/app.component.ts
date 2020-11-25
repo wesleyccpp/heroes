@@ -10,4 +10,5 @@ export class AppComponent {
   title2 = 'Tour of Heroes2';
   title3 = 'Tour of Heroes3';
   title4 = 'Tour of Heroes4';
+  title5 = 'Tour of Heroes5';
 }
